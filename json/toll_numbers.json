@@ -1,16 +1,40 @@
 {
     "data": [
         {
-            "name": "24×7 COVID Control Room toll free No.",
-            "phone_number": "1800-345-3818"
+            "sno": "1",
+            "name": "ArogyaSetu IVRS",
+            "phone_number": "1921"
         },
         {
-            "name": "Shri Arthur Chipang (Nodal Officer for handling COVID-19 Public Grievances)",
-            "phone_number": "1800-345-3818"
+            "sno": "2",
+            "name": "Child Helpline",
+            "phone_number": "1098"
         },
         {
-            "name": "24×7 COVID Control Room Email",
-            "phone_number": "mn.ccr2020@gmail.com"
+            "sno": "3",
+            "name": "Women Helpline",
+            "phone_number": "1091"
+        },
+        {
+            "sno": "4",
+            "name": "Ambulance",
+            "phone_number": "102, 108"
+        },
+        {
+            "sno": "5",
+            "name": "Fire and Rescue",
+            "phone_number": "101"
+        },
+        {
+            "sno": "6",
+            "name": "PDS Grievances",
+            "phone_number": "1967"
+        },
+        {
+            "sno": "7",
+            "name": "Electricity Grievances",
+            "phone_number": "04896-263709"
         }
+        
     ]
 }

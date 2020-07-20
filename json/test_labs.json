@@ -2,15 +2,21 @@
     "data": [
         {
             "sno": "1",
-            "name": " Virus Research and Diagnostic Laboratory, STNM Hospital, Gangtok ",
+            "name": "Lakshadweep Medical Store, Kochi",
             "type": "Government",
-            "test_type": "RT-PCR"
+            "test_type": "True NAT"
         },
         {
             "sno": "2",
-            "name": " Intermediate Reference Laboratory, STNM Hospital, Gangtok",
+            "name": "Indira Gandhi Hospital, Kavaratti Island",
             "type": "Government",
-            "test_type": "True NAD"
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "3",
+            "name": "Rajiv Gandhi Specialty Hospital, Agatti",
+            "type": "Government",
+            "test_type": "True NAT"
         }
     ]
 }
